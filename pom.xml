@@ -39,6 +39,9 @@
         <module>jraft-example</module>
         <module>jraft-rheakv</module>
         <module>jraft-extension</module>
+        <module>demo</module>
+        <module>jraft-demo</module>
+        <module>jraft-demo-model</module>
     </modules>
 
     <scm>
